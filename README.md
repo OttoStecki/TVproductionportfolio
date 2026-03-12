@@ -1,4 +1,6 @@
-# TVbroadcastingportfolio
+# Inversion productions
+
+**Members: Izzie Deniro & Otto Stecki***
 
 **Video rotation**
 **A 2 sequence video rotation demostrating shot angles and editing skills**
